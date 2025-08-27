@@ -1,0 +1,45 @@
+# Build directories
+/build/
+/out/
+/bin/
+/lib/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.idb
+
+# Backup / temp files
+*.log
+*.tmp
+*.user
+*.swp
+*.suo
+*.ncb
+*.opendb
+
+# Other IDEs/editors
+*.DS_Store
+Thumbs.db
